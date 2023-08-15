@@ -8,3 +8,4 @@ Card display : Intel UHD
 EFI => 
 OC version : 0.6.7
 OS : Big-Sur 11.2
+Please change the serial number before replacing, thank and good luck friends.
